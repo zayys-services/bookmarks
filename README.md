@@ -40,7 +40,7 @@ python main.py
 
 ### Screenshots
 
-...
+![image](https://github.com/zayys-services/bookmarks/assets/112042880/2798777e-6434-4acf-a583-d06de859bbc1)
 
 ### License
 
