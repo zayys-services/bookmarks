@@ -1,4 +1,4 @@
-## Bookmarks App
+## Bookmarks App (Pre-Release)
 
 A modern bookmark manager application built with Python, featuring a dark-themed user interface using Tkinter. This app allows users to easily add, edit, and manage bookmarks, automatically fetching website titles and favicons for a streamlined experience. Bookmarks are saved to a JSON file for persistent storage.
 
@@ -14,9 +14,7 @@ We may release a mobile version soon.
 ### Requirements
 
 - Python 3.x
-- `requests` library
-- `Pillow` library
-- `BeautifulSoup4` library
+- Everything in `requirements.txt`.
 
 ### Installation
 
@@ -37,7 +35,7 @@ We may release a mobile version soon.
 
 Run the application:
 ```bash
-python bookmark_app.py
+python main.py
 ```
 
 ### Screenshots
